@@ -12,6 +12,6 @@ Analysis of customer behavior, retention patterns, and purchase trends using SQL
 - `docs`: Documentation
 
 ## Analyses
-1. Cohort Retention Analysis - SQL query code done, reflection pending
-2. Purchase Pattern Analysis - SQL query code done, reflection pending
-3. Revenue Forecasting - to start/pending
+1. Cohort Retention Analysis 
+2. Purchase Pattern Analysis 
+3. Revenue Forecasting 
